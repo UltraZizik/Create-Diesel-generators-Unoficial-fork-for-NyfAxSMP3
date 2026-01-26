@@ -1,0 +1,20 @@
+{
+  "fluid": "#c:sulfurized_diesel",
+  "normal": {
+    "speed": 92.0,
+    "strength": 5888.0,
+    "burn_rate": 0.055
+  },
+  "modular": {
+    "speed": 92.0,
+    "strength": 7680.0,
+    "burn_rate": 0.055
+  },
+  "huge": {
+    "speed": 216.0,
+    "strength": 15360.0,
+    "burn_rate": 0.055
+  },
+  "sound_pitch": 0.88,
+  "burner_multiplier": 0.58
+}

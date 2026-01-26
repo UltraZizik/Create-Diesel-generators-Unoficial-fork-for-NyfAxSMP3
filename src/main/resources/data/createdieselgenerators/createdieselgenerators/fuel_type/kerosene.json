@@ -1,0 +1,20 @@
+{
+  "fluid": "#c:kerosene",
+  "normal": {
+    "speed": 80.0,
+    "strength": 6620.0,
+    "burn_rate": 0.075
+  },
+  "modular": {
+    "speed": 80.0,
+    "strength": 7856.0,
+    "burn_rate": 0.075
+  },
+  "huge": {
+    "speed": 192.0,
+    "strength": 12312.0,
+    "burn_rate": 0.075
+  },
+  "sound_pitch": 0.85,
+  "burner_multiplier": 0.55
+}

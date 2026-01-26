@@ -1,0 +1,20 @@
+{
+  "fluid": "#c:high_cetane_biodiesel",
+  "normal": {
+    "speed": 88.0,
+    "strength": 5632.0,
+    "burn_rate": 0.056
+  },
+  "modular": {
+    "speed": 88.0,
+    "strength": 7424.0,
+    "burn_rate": 0.056
+  },
+  "huge": {
+    "speed": 206.0,
+    "strength": 14848.0,
+    "burn_rate": 0.056
+  },
+  "sound_pitch": 0.88,
+  "burner_multiplier": 0.62
+}
